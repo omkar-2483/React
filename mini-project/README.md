@@ -1,4 +1,10 @@
 # React + Material UI + weather API
 
-![weather app screenshot](image.png)
-(image-1.png)(image-2.png)(image-3.png)
+Sunny day
+![](image-1.png)
+
+Rainny day
+![](image-2.png)
+
+City not found in API
+![](image-3.png)
